@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE4vv729O8UQA/profile-displaybackgroundimage-shrink_350_1400/0/1663990701090?e=1673481600&v=beta&t=1hzpPH4v3WbAgG9iER9HaN7mZIcp-GHTjWEA3iFGK1c)](https://arifislam.techviewing.com)
+[![MasterHead](https://raw.githubusercontent.com/md-arif-islam/md-arif-islam/main/profile-img.png)](https://arifislam.techviewing.com)
 
 <h1 align="center">Hi 👋, I'm MD Arif Islam</h1>
 <h3 align="center">A Full Stack Web Developer & WordPress Expert</h3>
