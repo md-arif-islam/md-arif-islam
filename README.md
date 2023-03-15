@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MD Arif Islam</h1>
 <h3 align="center">A Full Stack Web Developer & WordPress Expert</h3>
 <p align="center">
-<a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Font-End+Developer(React);Back-End+Developer(PHP);WordPress+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f68338&vCenter=true&size=22"></a>
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&pause=1000&color=F68338&background=3FFF7300&center=true&vCenter=true&width=440&height=45&lines=Front-end+Developer+(React+JS);Back-end+Developer+(PHP%2C+Laravel%2C+Node+JS);WordPress+Developer+(Themes+%26+Plugins)"></a>
 </p>
 
 - 🔭 I’m currently working on [Techviewing.com](http://techviewing.com/)
@@ -30,8 +30,15 @@
 
 #
 
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=md-arif-islam&show_icons=true&locale=en&layout=compact" alt="md-arif-islam" /></p>
+<p align="center"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=md-arif-islam&show_icons=true&locale=en&layout=compact" alt="md-arif-islam" /></p>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-arif-islam&show_icons=true&locale=en" alt="md-arif-islam" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-arif-islam&" alt="md-arif-islam" /></p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-arif-islam&show_icons=true&locale=en" alt="md-arif-islam" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-arif-islam&" alt="md-arif-islam" />
+      </td>
+  </tr>
+</table>
