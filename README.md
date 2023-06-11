@@ -30,15 +30,14 @@
 
 #
 
-<p align="center"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=md-arif-islam&show_icons=true&locale=en&layout=compact" alt="md-arif-islam" /></p>
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-arif-islam&show_icons=true&locale=en" alt="md-arif-islam" />
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=md-arif-islam&show_icons=true&locale=en&layout=compact" alt="md-arif-islam" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-arif-islam&" alt="md-arif-islam" />
-      </td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-arif-islam&show_icons=true&locale=en" alt="md-arif-islam" />
+    </td>
   </tr>
 </table>
