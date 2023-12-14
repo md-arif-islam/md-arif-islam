@@ -16,16 +16,16 @@ I am a Web Programmer with over 3 years of experience and a Computer Science and
 }
 ```
 
-### &rarr; [More about me](https://arifislam.me/about)
+> [!NOTE] > [More about me](https://arifislam.me/about)
 
 <br>
 
-<table align="center" style="border: 0!important;">
-  <tr style="border: 0!important;">
-    <td style="border: 0!important;">
+<table align="center" >
+  <tr >
+    <td >
       <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=md-arif-islam&show_icons=true&locale=en&layout=compact" alt="md-arif-islam" />
     </td>
-    <td style="border: 0!important;">
+    <td >
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-arif-islam&show_icons=true&locale=en" alt="md-arif-islam" />
     </td>
   </tr>
