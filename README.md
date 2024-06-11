@@ -1,18 +1,27 @@
 # MD ARIF ISLAM
 
-### < Web Programmer />
+### < Software Developer />
 
-I am a Web Programmer with over 3 years of experience and a Computer Science and Engineering student at Dhaka International University. I have a deep interest in Software Engineering and Artificial Intelligence. Also, I am passionate about problem-solving and staying ahead with the latest technologies.
+Hi, I am Arif Islam, a Sofware Developer with over four years of experience in web development, specializing in PHP, Laravel, WordPress themes and plugins, and front-end technologies like Vue.js, Alpine.js, and Inertia.js. I am also skilled in competitive programming with C/C++ and have a deep passion for Artificial Intelligence and machine learning.
+
+Currently, I am working on various projects, including game development with Construct 3, web scraping with Python, and exploring cloud technologies like AWS.
+
+I am passionate about solving problems and continuously learning. I thrive on tackling real-world challenges and staying updated with the latest technology. I enjoy collaborating with other developers to create innovative and impactful solutions.
 
 ## SKILL
 
 ```js
 {
-  programming_languages: ['PHP', 'JavaScript', 'TypeScript', 'Python'],
-  front_end: ['Vue JS', 'NuxtJS', 'React JS', 'Tailwind CSS'],
-  back_end: ['PHP', 'Laravel', 'Express JS'],
-  wordpress: ['Theme & Plugin Dev', 'Elementor & Beaver Widgets Dev'],
-  others: ['Git & Github', 'Docker', 'Firebase', 'REST API', 'SSH', '...']
+{
+  programming_languages: ['PHP', 'JavaScript', 'TypeScript', 'Python', 'C/C++', 'SQL'],
+  front_end_technologies: ['Vue.js', 'NuxtJS', 'React.js', 'Tailwind CSS', 'Alpine.js', 'Inertia.js'],
+  back_end_technologies: ['PHP', 'Laravel', 'Express.js'],
+  wordpress: ['Theme & Plugin Development', 'Elementor & Beaver Widgets Development'],
+  game_development: ['Construct 3'],
+  web_scraping: ['Python'],
+  cloud_technologies: ['AWS'],
+  others: ['Git & GitHub', 'Docker', 'Firebase', 'REST API', 'SSH', 'Competitive Programming']
+}
 }
 ```
 
