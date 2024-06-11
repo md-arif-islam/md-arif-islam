@@ -11,7 +11,7 @@ I am passionate about solving problems and continuously learning. I thrive on ta
 ## SKILL
 
 ```js
-{
+
 {
   programming_languages: ['PHP', 'JavaScript', 'TypeScript', 'Python', 'C/C++', 'SQL'],
   front_end_technologies: ['Vue.js', 'NuxtJS', 'React.js', 'Tailwind CSS', 'Alpine.js', 'Inertia.js'],
@@ -22,7 +22,7 @@ I am passionate about solving problems and continuously learning. I thrive on ta
   cloud_technologies: ['AWS'],
   others: ['Git & GitHub', 'Docker', 'Firebase', 'REST API', 'SSH', 'Competitive Programming']
 }
-}
+
 ```
 
 ### &rarr; [More about me](https://arifislam.me/about)
