@@ -18,7 +18,7 @@ I’m passionate about problem-solving and continuous learning, enjoying real-wo
   wordpress: ['Themes & Plugins Development', 'Elementor & Beaver Widgets Development'],
   web_scraping_and_automation: ['Selenium(Python)'],
   server_technologies: ['Nginx', 'Apache', 'Node.js'],
-  database_technologies: ['MongoDB', 'PostgreSQL', 'Redis'],
+  database_technologies: ['MySQL','MongoDB', 'PostgreSQL', 'Redis'],
   others: ['Git & GitHub', 'Docker', 'Firebase', 'REST API', 'SSH', 'VPS', 'Competitive Programming']
 }
 ```
