@@ -2,11 +2,12 @@
 
 ### < Software Developer />
 
-Hi, I am Arif Islam, a Sofware Developer with over four years of experience in web development, specializing in PHP, Laravel, WordPress themes and plugins, and front-end technologies like Vue.js, Alpine.js, and Inertia.js. I am also skilled in competitive programming with C/C++ and have a deep passion for Artificial Intelligence and machine learning.
+Hi, I’m Md. Arif Islam, a Software Developer with over 4 years of experience in web development, specializing PHP, Laravel, WordPress themes and plugin development, and front-end technologies like Vue.js, Alpine.js, and Inertia.js. I’m also skilled in Competitive programming with C/C++ and have a strong passion for Artificial Intelligence and Machine Learning.
 
-Currently, I am working on various projects, including game development with Construct 3, web scraping with Python, and exploring cloud technologies like AWS.
+Currently focused on Full-stack Web development, Web scraping and automation with Python, Problem solving, and exploring Cloud technologies.
 
-I am passionate about solving problems and continuously learning. I thrive on tackling real-world challenges and staying updated with the latest technology. I enjoy collaborating with other developers to create innovative and impactful solutions.
+I’m passionate about problem-solving and continuous learning, enjoying real-world challenges and staying updated with the latest tech. I enjoy and love to collaborative environments, working closely with other developers to create meaningful, impactful solutions.
+
 
 ## SKILL
 
@@ -14,13 +15,12 @@ I am passionate about solving problems and continuously learning. I thrive on ta
 
 {
   programming_languages: ['PHP', 'JavaScript', 'TypeScript', 'Python', 'C/C++', 'SQL'],
-  front_end_technologies: ['Vue.js', 'NuxtJS', 'React.js', 'Tailwind CSS', 'Alpine.js', 'Inertia.js'],
+  front_end_technologies: ['Vue.js', 'React.js', 'Tailwind CSS', 'Alpine.js', 'Inertia.js'],
   back_end_technologies: ['PHP', 'Laravel', 'Express.js'],
-  wordpress: ['Theme & Plugin Development', 'Elementor & Beaver Widgets Development'],
-  game_development: ['Construct 3'],
-  web_scraping: ['Python'],
+  wordpress: ['Themes & Plugins Development', 'Elementor & Beaver Widgets Development'],
+  web_scraping_and_automation: ['Selenium(Python)'],
   cloud_technologies: ['AWS'],
-  others: ['Git & GitHub', 'Docker', 'Firebase', 'REST API', 'SSH', 'Competitive Programming']
+  others: ['Git & GitHub', 'Docker', 'Firebase', 'REST API', 'SSH', 'VPS', 'Competitive Programming']
 }
 
 ```
