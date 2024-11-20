@@ -2,9 +2,7 @@
 
 ### < Software Developer />
 
-Hi, I’m Md. Arif Islam, a Software Developer with over 4 years of experience in web development, specializing in PHP, Laravel, WordPress themes and plugin development, and front-end technologies like Vue.js, Alpine.js, and Inertia.js. I’m also skilled in competitive programming with C/C++ and have a strong passion for Artificial Intelligence and Machine Learning.
-
-Currently focused on full-stack web development, web scraping and automation with Python, problem solving, and exploring cloud technologies.
+Hi, I’m Md. Arif Islam, A Software Developer with over 4 years of experience, I specialize in back-end solutions using PHP and Laravel, with expertise in WordPress for theme, plugin, and add-on development. My skills extend to front-end technologies with Vue.js and React.js. I also skilled in integrating AI features into Laravel and WordPress, optimizing website performance, maintaining servers, and building efficient APIs.
 
 I’m passionate about problem-solving and continuous learning, enjoying real-world challenges and staying updated with the latest tech. I enjoy and love collaborative environments, working closely with other developers to create meaningful, impactful solutions.
 
@@ -13,11 +11,11 @@ I’m passionate about problem-solving and continuous learning, enjoying real-wo
 ```js
 {
   programming_languages: ['PHP', 'JavaScript', 'TypeScript', 'Python', 'C/C++', 'SQL'],
-  front_end_technologies: ['Vue.js', 'React.js', 'Tailwind CSS', 'Alpine.js', 'Inertia.js'],
+  front_end_technologies: ['Vue.js', 'React.js', 'Tailwind CSS', "SCSS"],
   back_end_technologies: ['PHP', 'Laravel', 'Express.js'],
   wordpress: ['Themes & Plugins Development', 'Elementor & Beaver Widgets Development'],
   web_scraping_and_automation: ['Selenium(Python)'],
-  server_technologies: ['Nginx', 'Apache', 'Node.js'],
+  server_technologies: ['Linux','Nginx', 'Apache',],
   database_technologies: ['MySQL','MongoDB', 'PostgreSQL', 'Redis'],
   others: ['Git & GitHub', 'Docker', 'Firebase', 'REST API', 'SSH', 'VPS', 'Competitive Programming']
 }
