@@ -21,7 +21,7 @@ I’m passionate about problem-solving and continuous learning, enjoying real-wo
 }
 ```
 
-### &rarr; [More about me](https://arifislam.me/about)
+### [More about me ►](https://arifislam.me/about)
 
 <br>
 
